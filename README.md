@@ -10,7 +10,7 @@ Ich beschäftige mich leidenschaftlich mit Linux-Systemadministration, Virtualis
 
 [![Website](https://img.shields.io/badge/Website-sebastian.stanischewski.eu-2e86de?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sebastian.stanischewski.eu)
 [![Email](https://img.shields.io/badge/Email-sebastian@stanischewski.eu-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sebastian@stanischewski.eu)
-[![Discord](https://img.shields.io/badge/Discord-Server_beitreten-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TqdF7yhyZH)
+[![Matrix](https://img.shields.io/badge/Matrix-@sebastian:stanischewski.eu-000000?style=for-the-badge&logo=matrix&logoColor=white)](https://matrix.to/#/@sebastian:stanischewski.eu)
 
 </div>
 
